@@ -1,0 +1,66 @@
+Country,Abortion_Law_Category,Restriction_Group,code
+Andorra,Prohibited in all circumstances,More restrictive,AND
+Argentina,"On request (up to 14 wks, 2020 reform)",Less restrictive,ARG
+Armenia,On request (≈12 wks),Less restrictive,ARM
+Bangladesh,Restricted; MR policy exists (law: save life),More restrictive,
+Bolivia,"Broad grounds (health, rape etc.)",Less restrictive,BOL
+Brazil,"Very limited (life, rape, anencephaly)",More restrictive,BRA
+Canada,No criminal restriction (on request),Less restrictive,CAN
+Chile,"Very limited (life, rape, inviability)",More restrictive,CHL
+China,On request (policy discouragement ≠ ban),Less restrictive,CHN
+Colombia,On request (to 24 wks) + grounds (2022),Less restrictive,COL
+Cyprus,On request (up to 12 wks),Less restrictive,CYP
+Czechia,On request (up to 12 wks),Less restrictive,CZE
+Germany,"On request (up to 12 wks, counselling)",Less restrictive,DEU
+Ecuador,"Limited grounds (rape, life/health)",More restrictive,ECU
+Egypt,Prohibited except to save life,More restrictive,EGY
+Ethiopia,"Broad grounds (rape, incest, minor, health)",Less restrictive,ETH
+Great Britain,On request via broad grounds (up to 24 wks),Less restrictive,GBR
+Greece,On request (up to 12 wks),Less restrictive,GRC
+Guatemala,Prohibited except to save life,More restrictive,GTM
+Hong Kong,Broad health grounds (up to 24 wks),Less restrictive,HKG
+Indonesia,Limited (rape up to 6 wks; health),More restrictive,IDN
+India,"Broad grounds (MTP Act, up to 24 wks)",Less restrictive,IND
+Iran,Limited (life/health; specific conditions),More restrictive,IRN
+Iraq,Prohibited except to save life,More restrictive,IRQ
+Jordan,Prohibited except to save life,More restrictive,JOR
+Japan,Socioeconomic/health grounds,Less restrictive,JPN
+Kazakhstan,On request (up to 12 wks),Less restrictive,KAZ
+Kenya,Limited (life/health; judicial ambiguity),More restrictive,KEN
+Kyrgyzstan,On request (up to 12 wks),Less restrictive,KGZ
+South Korea,Decriminalized 2021; interim liberal access,Less restrictive,KOR
+Lebanon,Prohibited except to save life,More restrictive,LBN
+Libya,Prohibited except to save life,More restrictive,LBY
+Macao,"Limited (life/health, rape)",More restrictive,MAC
+Maldives,"Limited (life/health, rape/incest)",More restrictive,MDV
+Mexico,Mixed; decriminalization expanding,Less restrictive,MEX
+Myanmar,Prohibited except to save life,More restrictive,MMR
+Mongolia,On request (up to 12 wks),Less restrictive,MNG
+Morocco,Prohibited except to save life,More restrictive,MOR
+Malaysia,Limited (physical/mental health),More restrictive,MYS
+Nigeria,Prohibited except to save life,More restrictive,NGA
+Nicaragua,Prohibited in all circumstances,More restrictive,NIC
+Northern Ireland,On request (2019–2020 reform),Less restrictive,NIR
+Netherlands,On request (up to 24 wks; viability),Less restrictive,NLD
+New Zealand,On request (2020 reform),Less restrictive,NZL
+Pakistan,Limited (to save life / necessary treatment),More restrictive,PAK
+Peru,Prohibited except to save life/health,More restrictive,PER
+Philippines,Prohibited in all circumstances,More restrictive,PHL
+Puerto Rico,On request (US territory),Less restrictive,PRI
+Romania,On request (up to ~14 wks),Less restrictive,ROU
+Russian Federation,On request (up to 12 wks),Less restrictive,RUS
+Singapore,On request (up to 24 wks; conditions),Less restrictive,SGP
+Serbia,On request (up to 10–12 wks),Less restrictive,SRB
+Slovakia,On request (up to 12 wks),Less restrictive,SVK
+Thailand,On request (to 12 wks; to 20 wks with conditions),Less restrictive,THA
+Tajikistan,Broad grounds (socio-medical lists),Less restrictive,TJK
+Tunisia,On request (up to 12 wks),Less restrictive,TUN
+Turkey,On request (up to 10 wks),Less restrictive,TUR
+Taiwan,Broad grounds (incl. socioeconomic),Less restrictive,TWN
+Ukraine,On request (up to 12 wks),Less restrictive,UKR
+Uruguay,On request (up to 12 wks),Less restrictive,URY
+United States,Mixed (post-Dobbs state-level),Less restrictive,USA
+Uzbekistan,On request (up to 12 wks),Less restrictive,UZB
+Venezuela,Prohibited except to save life,More restrictive,VEN
+Vietnam,On request (to ~22 wks),Less restrictive,VNM
+Zimbabwe,"Limited (life/health, rape/incest)",More restrictive,ZWE

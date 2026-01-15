@@ -1,0 +1,62 @@
+Country,Hdi,Communism_any,Legal_index,Country_code,Urb_pop
+Germany,0.959,1.0,93.0,DEU,77.648
+Netherlands,0.955,0.0,99.0,NLD,92.886
+Singapore,0.946,1.0,90.0,SGP,100.0
+Canada,0.939,0.0,95.0,CAN,81.752
+New Zealand,0.938,0.0,95.0,NZL,86.884
+United States,0.938,1.0,90.0,USA,83.084
+Japan,0.925,0.0,87.0,JPN,91.955
+Czechia,0.915,1.0,84.0,CZE,74.377
+Andorra,0.913,0.0,75.0,AND,87.811
+Cyprus,0.913,0.0,82.0,CYP,66.911
+Greece,0.908,0.0,85.0,GRC,80.357
+Slovakia,0.88,0.0,85.0,SVK,
+Chile,0.878,0.0,83.0,CHL,87.912
+Argentina,0.865,0.0,88.0,ARG,92.347
+Uruguay,0.862,0.0,92.0,URY,95.688
+Romania,0.845,0.0,70.0,ROU,54.489
+Kazakhstan,0.837,1.0,45.0,KAZ,57.99
+Serbia,0.833,1.0,60.0,SRB,56.873
+Malaysia,0.819,0.0,35.0,MYS,78.214
+Armenia,0.811,1.0,40.0,ARM,63.573
+Thailand,0.798,1.0,75.0,THA,52.889
+China,0.797,1.0,35.0,CHN,63.56
+Peru,0.794,0.0,65.0,PER,78.708
+Mexico,0.789,0.0,82.0,MEX,81.3
+Colombia,0.788,0.0,78.0,COL,82.05
+Brazil,0.786,0.0,80.0,BRA,87.555
+Ukraine,0.779,0.0,95.0,UKR,69.919
+Ecuador,0.777,0.0,72.0,ECU,64.57
+Maldives,0.766,0.0,20.0,MDV,41.536
+Egypt,0.754,0.0,20.0,EGY,
+Jordan,0.754,0.0,30.0,JOR,91.827
+Lebanon,0.752,0.0,30.0,LBN,89.262
+Mongolia,0.747,1.0,55.0,MNG,68.93
+Tunisia,0.746,0.0,45.0,TUN,70.214
+Uzbekistan,0.74,0.0,30.0,UZB,50.466
+Indonesia,0.728,0.0,35.0,IDN,57.934
+Libya,0.721,0.0,15.0,LBY,81.302
+Kyrgyzstan,0.72,1.0,20.0,KGZ,
+Philippines,0.72,0.0,55.0,PHL,47.977
+Morocco,0.71,0.0,25.0,MOR,64.596
+Nicaragua,0.706,0.0,40.0,NIC,59.556
+Iraq,0.695,0.0,10.0,IRQ,71.354
+Tajikistan,0.691,0.0,22.0,TJK,27.968
+India,0.685,0.0,60.0,IND,35.872
+Guatemala,0.662,0.0,40.0,GTM,52.666
+Kenya,0.628,0.0,25.0,KEN,29.002
+Myanmar,0.609,0.0,18.0,MMR,31.771
+Zimbabwe,0.598,1.0,20.0,ZWE,32.395
+Nigeria,0.56,0.0,10.0,NGA,53.521
+Pakistan,0.544,0.0,25.0,PAK,37.731
+Ethiopia,0.497,0.0,25.0,ETH,22.661
+Bolivia,0.705,0.0,55.0,BOL,70.83
+Great Britain,0.939,0.0,92.0,GBR,83.9
+Iran,0.783,0.0,15.0,IRN,77.3
+Northern Ireland,0.939,0.0,92.0,NIR,82.5
+Puerto Rico,0.845,0.0,75.0,PRI,93.6
+South Korea,0.925,1.0,88.0,KOR,81.5
+Turkey,0.865,0.0,80.0,TUR,77.1
+Venezuela,0.693,1.0,55.0,VEN,89.4
+Vietnam,0.737,0.0,65.0,VNM,39.6
+Russian Federation,0.822,1.0,,RUS,75.1
